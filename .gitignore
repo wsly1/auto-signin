@@ -10,3 +10,4 @@ __pycache__/
 
 # Older GUI binary; keep the source and current CLI release instead.
 auto-signin.exe
+release-assets/
