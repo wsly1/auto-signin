@@ -1,0 +1,12 @@
+accounts.json
+logs/
+build/
+dist/
+__pycache__/
+.idea/
+.venv/
+.tmp-pkgs/
+*.pyc
+
+# Older GUI binary; keep the source and current CLI release instead.
+auto-signin.exe
